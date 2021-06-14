@@ -1,10 +1,5 @@
 ##### PREAMBLE
 Software Name: **MyEasyEssay**
-##### Developers:
-- Tejaswi Vykuntam
-- M.Raghavi Reddy
-- Purnima Priyadarshini
-- Srishti Suman
 
 ##### NAME
 java -jar < path to avglength.jar file> < path to the eassy file> --> Gives average number of words in a sentence of an essay
